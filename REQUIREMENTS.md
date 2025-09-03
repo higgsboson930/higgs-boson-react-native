@@ -7,6 +7,6 @@ Project - It specific shown all tasks in a project and its status.
 Chat - A chat box chatting with our customer support about any issue. 
 Payment - Listing any outstanding payments and "Pay" button 
 
-The front end using React Native, the backend using Django python connect to AWS. 
+The front end using React Native, the backend using Django python connect to AWS. I need both frontend and backend development in this repository.
 
 Please create a task list and estimation on each task. For each task create a branch. 
