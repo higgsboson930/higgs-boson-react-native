@@ -9,6 +9,6 @@ The layout should have 4 pages.
 
 The front end using React Native, the backend using Django python connect to AWS. I need both frontend and backend development in this repository.
 
-Please create a task list and estimation on each task. Give me some changes in task list. Give me some changes. Change again.
+Please create a task list and estimation on each task. Give me some changes in task list. Give me some changes. 
 
 <!-- Testing on-demand branch creation system -->
